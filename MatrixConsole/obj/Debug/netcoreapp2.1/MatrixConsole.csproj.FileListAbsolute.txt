@@ -1,0 +1,11 @@
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\bin\Debug\netcoreapp2.1\MatrixConsole.deps.json
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\bin\Debug\netcoreapp2.1\MatrixConsole.runtimeconfig.json
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\bin\Debug\netcoreapp2.1\MatrixConsole.runtimeconfig.dev.json
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\bin\Debug\netcoreapp2.1\MatrixConsole.dll
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\bin\Debug\netcoreapp2.1\MatrixConsole.pdb
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\obj\Debug\netcoreapp2.1\MatrixConsole.csprojAssemblyReference.cache
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\obj\Debug\netcoreapp2.1\MatrixConsole.csproj.CoreCompileInputs.cache
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\obj\Debug\netcoreapp2.1\MatrixConsole.AssemblyInfoInputs.cache
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\obj\Debug\netcoreapp2.1\MatrixConsole.AssemblyInfo.cs
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\obj\Debug\netcoreapp2.1\MatrixConsole.dll
+D:\ex.C#\Console_like_a_Matrix\MatrixConsole\obj\Debug\netcoreapp2.1\MatrixConsole.pdb
